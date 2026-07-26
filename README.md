@@ -4,7 +4,7 @@
 
 type "redeem [Prize Name] [Quantiity]" without the quote marks- 
 Prizes available: 
-### redeem couponsforall #
+```redeem couponsforall #```
 couponsforall (for streamloots cards, the redeemer of this also gets 5 PED, cost is 2,000 PP only 2 per day), 
 ### redeem couponsforone #
 couponsforone (for streamloots cards, 1,000 PP, 10 per day), 
