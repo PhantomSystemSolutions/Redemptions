@@ -1,9 +1,8 @@
 # Redemptions
 
-## ***Entropia Universe***
-
 Copy the command in the "Redeem Command" column. Replace the # with the quantity you wish to purchase.
 
+## ***Entropia Universe***
 ### Prizes available: 
 
 > [!IMPORTANT]
