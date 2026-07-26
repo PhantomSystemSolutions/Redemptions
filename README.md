@@ -3,7 +3,9 @@
 ## Entropia Universe
 
 type "redeem [Prize Name] [Quantiity]" without the quote marks- 
+
 Prizes available: 
+
 ```redeem couponsforall #```
 couponsforall (for streamloots cards, the redeemer of this also gets 5 PED, cost is 2,000 PP only 2 per day), 
 ### redeem couponsforone #
