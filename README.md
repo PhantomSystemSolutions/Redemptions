@@ -2,7 +2,7 @@
 
 ## ***Entropia Universe***
 
-type "redeem [Prize Name] [Quantiity]" without the quotation marks- 
+Copy the command in the "Redeem Command" column. Replace the # with the quantity you wish to purchase.
 
 ### Prizes available: 
 
