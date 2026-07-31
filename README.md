@@ -8,7 +8,7 @@ Copy the command in the "Redeem Command" column. Replace the # with the quantity
 > [!IMPORTANT]
 > Do !points BEFORE and AFTER you redeem anything, so I know you had the points. I am still working out some kinks in the system, so it won't always let me know if you had the points for the redeem.
 
-| Redeem Command | Redemption Cost | Redemtions Available | Description |
+| Redeem Command | Redemption Cost | Redemptions Available | Description |
 |----------|----------|----------|----------|
 | redeem couponsforall # | 2,000 PP | 2 | for streamloots cards, the redeemer of this also gets 5 PED |
 | redeem couponsforone # | 1,000 PP | 10 | for streamloots cards |
